@@ -4,7 +4,39 @@
     display: none;
 }
 
-/* No ads */
+/* Title */
+
+/* From cmd1152 */
+#kjbt,
+#idtop {
+    text-align: center;
+}
+
+#kjbt {
+    font-Weight: bold;
+    font-size: 40px;
+
+    background: linear-gradient(to right, #66f, #09f, #0f0, #f39, #66f);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    animation: rainbow 6s ease-in-out infinite;
+    background-size: 400% 100%
+}
+
+@keyframes rainbow {
+
+    0%,
+    100% {
+        background-position: 0 0
+    }
+
+    50% {
+        background-position: 100% 0
+    }
+}
+
+/* No ads ;provided by paperee and cmd1152 */
 
 .yszdyq,
 #zdy_wz0,
