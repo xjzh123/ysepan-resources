@@ -58,11 +58,16 @@ body {
     background: #00006f88;
 }
 
-.dqcd label {
+#ysmenu div label {
     color: unset !important;
 }
 
 /* Links */
+
+#sylj {
+    font-size: larger;
+    margin: 5px 0 0 8px !important;
+}
 
 #sylj a {
     color: #00006f;
