@@ -21,7 +21,7 @@
     background-clip: text;
     color: transparent;
     animation: rainbow 6s ease-in-out infinite;
-    background-size: 400% 100%
+    background-size: 400% 100%;
 }
 
 @keyframes rainbow {
@@ -36,6 +36,38 @@
     }
 }
 
+/* Header */
+
+#idtop {
+    background: #ffffff55 !important;
+}
+
+/* Root */
+
+body {
+    background: linear-gradient(135deg,#abdcff,#0396ff) !important;
+}
+
+/* Panels */
+
+#ysdiv1, #lyz, #dzx {
+    background: #ffffff99 !important;
+}
+
+.fgg5 .ta_wjq {
+    background: #00006f88;
+}
+
+.dqcd label {
+    color: unset !important;
+}
+
+/* Links */
+
+#sylj a {
+    color: #00006f;
+}
+
 /* No ads ;provided by paperee and cmd1152 */
 
 .yszdyq,
@@ -44,5 +76,5 @@
 #idzdy1,
 p>img,
 a>img {
-    display: none
+    display: none !important;
 }
