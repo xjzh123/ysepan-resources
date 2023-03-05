@@ -50,11 +50,11 @@ body {
 
 /* Panels */
 
-#ysdiv1, #ysmenu1, #lyz, #dzx {
+#ysdiv1, #ysmenu1, #lyz, #dzx, .z_bo {
     background: #ffffff99 !important;
 }
 
-.fgg5 .ta_wjq {
+.fgg5 .ta_wjq, .z_bt {
     background: #00006f88;
 }
 
